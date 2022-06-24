@@ -17,4 +17,4 @@ The concept of a Dashboard appears nearly everywhere. Most obvious are car dashb
 - [Icon set](https://www.figma.com/community/file/1091060802945476262)
 - [Grid generator](https://cssgrid-generator.netlify.app/)
 
-![preview](Screenshot.png)
+![preview](ScreenShot.png)
